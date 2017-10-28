@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="exercises"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shapes-main">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/shapes-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 shapes-main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shapes-main/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/shapes-main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 shapes-main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0601">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0601" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0601"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0601/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0601" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0601/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0503">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0503" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0503"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0503/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0503" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0503/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0403">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0403" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0403"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0403/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0403" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0403/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0402">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0402"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0402/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0402/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0302">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0302" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0302"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0302/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0302" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0302/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0301">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0301" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0301"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0301/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0301" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0301/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0701">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0701" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0701"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0701/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0701" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0701/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0203">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0203" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0203"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0203/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0203" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0203/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0501">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0501" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0501"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0501/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0501" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0501/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0202">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0202" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0202"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0202/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0202" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0202/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0201">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0201" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0201"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0201/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0201" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0201/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0502">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0502" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0502"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0502/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0502" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0502/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0101">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0101"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0101/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0101" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0101/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercises">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/exercises" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 exercises"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exercises/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/exercises" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 exercises/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0103">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0103" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0103"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0103/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0103" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0103/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0102">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0102" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0102"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0102/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0102" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0102/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0104">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0104" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0104"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0104/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0104" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0104/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0401">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0401" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0401"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0401/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0401" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0401/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0204">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0204" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0204"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex0204/fast">
+				<Option output="/Users/gako/developer/home/CppExercises/cmake-build-debug/ex0204" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gako/developer/home/CppExercises/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex0204/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/gako/developer/home/CppExercises/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0101.cpp">
+			<Option target="ex0101"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0102.cpp">
+			<Option target="ex0102"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0103.cpp">
+			<Option target="ex0103"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0104.cpp">
+			<Option target="ex0104"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0201.cpp">
+			<Option target="ex0201"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0202.cpp">
+			<Option target="ex0202"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0203.cpp">
+			<Option target="ex0203"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0204.cpp">
+			<Option target="ex0204"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0301.cpp">
+			<Option target="ex0301"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0302.cpp">
+			<Option target="ex0302"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0401.cpp">
+			<Option target="ex0401"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0402.cpp">
+			<Option target="ex0402"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0403.cpp">
+			<Option target="ex0403"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0501.cpp">
+			<Option target="ex0501"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0502.cpp">
+			<Option target="ex0502"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0503.cpp">
+			<Option target="ex0503"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0601.cpp">
+			<Option target="ex0601"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/ex0701.cpp">
+			<Option target="ex0701"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/main.cpp">
+			<Option target="exercises"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/shapes-main.cpp">
+			<Option target="shapes-main"/>
+		</Unit>
+		<Unit filename="/Users/gako/developer/home/CppExercises/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

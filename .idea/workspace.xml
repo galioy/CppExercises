@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="exercises" targetName="shapes-main" />
+      <config projectName="exercises" targetName="ex0503" />
+      <config projectName="exercises" targetName="ex0701" />
+      <config projectName="exercises" targetName="exercises" />
+      <config projectName="exercises" targetName="ex0102" />
+      <config projectName="exercises" targetName="ex0201" />
+      <config projectName="exercises" targetName="ex0101" />
+      <config projectName="exercises" targetName="ex0403" />
+      <config projectName="exercises" targetName="ex0502" />
+      <config projectName="exercises" targetName="ex0601" />
+      <config projectName="exercises" targetName="ex0204" />
+      <config projectName="exercises" targetName="ex0402" />
+      <config projectName="exercises" targetName="ex0501" />
+      <config projectName="exercises" targetName="ex0104" />
+      <config projectName="exercises" targetName="ex0203" />
+      <config projectName="exercises" targetName="ex0302" />
+      <config projectName="exercises" targetName="ex0401" />
+      <config projectName="exercises" targetName="ex0103" />
+      <config projectName="exercises" targetName="ex0202" />
+      <config projectName="exercises" targetName="ex0301" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c389c4a9-9701-4877-8c26-f5c382cac502" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ex0401.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex0401.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="480" />
+    <option name="y" value="23" />
+    <option name="width" value="959" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exercises" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
+              <item name="CppExercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ex0402">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+    </configuration>
+    <configuration name="ex0101" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0101" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0101">
+      <envs />
+    </configuration>
+    <configuration name="ex0102" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0102" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0102">
+      <envs />
+    </configuration>
+    <configuration name="ex0103" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0103" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0103">
+      <envs />
+    </configuration>
+    <configuration name="ex0104" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0104" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0104">
+      <envs />
+    </configuration>
+    <configuration name="ex0201" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0201" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0201">
+      <envs />
+    </configuration>
+    <configuration name="ex0202" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0202" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0202">
+      <envs />
+    </configuration>
+    <configuration name="ex0203" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0203" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0203">
+      <envs />
+    </configuration>
+    <configuration name="ex0204" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0204" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0204">
+      <envs />
+    </configuration>
+    <configuration name="ex0301" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0301" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0301">
+      <envs />
+    </configuration>
+    <configuration name="ex0302" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0302" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0302">
+      <envs />
+    </configuration>
+    <configuration name="ex0401" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0401" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0401">
+      <envs />
+    </configuration>
+    <configuration name="ex0402" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0402" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0402">
+      <envs />
+    </configuration>
+    <configuration name="ex0403" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0403" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0403">
+      <envs />
+    </configuration>
+    <configuration name="ex0501" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0501" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0501">
+      <envs />
+    </configuration>
+    <configuration name="ex0502" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0502" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0502">
+      <envs />
+    </configuration>
+    <configuration name="ex0503" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0503" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0503">
+      <envs />
+    </configuration>
+    <configuration name="ex0601" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0601" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0601">
+      <envs />
+    </configuration>
+    <configuration name="ex0701" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="ex0701" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="ex0701">
+      <envs />
+    </configuration>
+    <configuration name="exercises" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="exercises" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="exercises">
+      <envs />
+    </configuration>
+    <configuration name="shapes-main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="exercises" TARGET_NAME="shapes-main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="exercises" RUN_TARGET_NAME="shapes-main">
+      <envs />
+    </configuration>
+    <list size="21">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ex0101" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ex0102" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ex0103" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ex0104" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ex0201" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ex0202" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ex0203" />
+      <item index="8" class="java.lang.String" itemvalue="Application.ex0204" />
+      <item index="9" class="java.lang.String" itemvalue="Application.ex0301" />
+      <item index="10" class="java.lang.String" itemvalue="Application.ex0302" />
+      <item index="11" class="java.lang.String" itemvalue="Application.ex0401" />
+      <item index="12" class="java.lang.String" itemvalue="Application.ex0402" />
+      <item index="13" class="java.lang.String" itemvalue="Application.ex0403" />
+      <item index="14" class="java.lang.String" itemvalue="Application.ex0501" />
+      <item index="15" class="java.lang.String" itemvalue="Application.ex0502" />
+      <item index="16" class="java.lang.String" itemvalue="Application.ex0503" />
+      <item index="17" class="java.lang.String" itemvalue="Application.ex0601" />
+      <item index="18" class="java.lang.String" itemvalue="Application.ex0701" />
+      <item index="19" class="java.lang.String" itemvalue="Application.exercises" />
+      <item index="20" class="java.lang.String" itemvalue="Application.shapes-main" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="480" y="23" width="959" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19738276" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ex0401.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
