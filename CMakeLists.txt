@@ -35,4 +35,6 @@ add_executable(shapes-main shapes-main)
 
 add_executable(ex0901 ex0901)
 add_executable(ex0902 ex0902)
+add_executable(ex0903 ex0903)
+add_executable(ex0904 ex0904)
 
