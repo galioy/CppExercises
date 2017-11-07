@@ -8,35 +8,33 @@ struct Node {
     Node *right;
 };
 
-// Class List
 class Fibonacci {
 
 public:
-    explicit Fibonacci(Node *first) {
-        this->first = first;
+    explicit Fibonacci() {
     }
 
-    void constructTree(int n, Node *node, int &size, int &leafs, int &depth) {
+    void constructTree(int n, Node *node, int &size, int &leafs) {
         size++;
-        Node *temp = new Node;
 
         if (n == 0 || n == 1) {
-            temp->val = 1;
-            temp->left = nullptr;
-            temp->right = nullptr;
+            node->val = 1;
+            node->left = nullptr;
+            node->right = nullptr;
 
             cout << 1 << ' ';
         } else {
             leafs++;
-            depth++;
 
-            temp->val = fibonacci(n);
+            node->val = fibonacci(n);
             Node *left = new Node;
             Node *right = new Node;
+            node->left = left;
+            node->right = right;
 
-            cout << temp->val << ' ';
-            constructTree(n - 1, left, size, leafs, depth);
-            constructTree(n - 2, right, size, leafs, depth);
+            cout << node->val << ' ';
+            constructTree(n - 1, left, size, leafs);
+            constructTree(n - 2, right, size, leafs);
         }
     }
 
@@ -62,9 +60,6 @@ public:
             else return (rDepth + 1);
         }
     }
-
-private:
-    Node *first;
 };
 
 
@@ -77,17 +72,14 @@ int main(void) {
         return 0;
     }
 
-    Node *first = new Node;
-    first->val = n;
-
     int size = 0;
     int leafs = 1;
-    int depth = 1;
 
-    Fibonacci tree(first);
+    Fibonacci tree;
+    Node *first = new Node;
 
     cout << "Call tree in pre-order: ";
-    tree.constructTree(n, first, size, leafs, depth);
+    tree.constructTree(n, first, size, leafs);
     cout << endl;
 
     cout << "Call tree size: " << size << endl;
